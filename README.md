@@ -1,1 +1,1 @@
-# local
+http://localhost/wordpress/
